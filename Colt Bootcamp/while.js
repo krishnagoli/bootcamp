@@ -1,4 +1,9 @@
 // Print All Numbers between -10 and 19
+var value = "-10";
+
+while value <= 19 {
+	console.log(Print(value));
+}
 
 // Print all even numbers between 10 and 40
 
