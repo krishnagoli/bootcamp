@@ -1,5 +1,3 @@
-alert
-
 // Print All Numbers between -10 and 19
 console.log("Print All Numbers between -10 and 19")
 var counter = -10;
