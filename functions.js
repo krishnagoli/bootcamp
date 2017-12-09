@@ -25,6 +25,8 @@ function factorial(num) {
 
 // - to _
 
+// Using a regular expression
+// ----------------------------------------
 // function kebabToSnake(str) {
 // 	var newStr = str.replace(/-/g, "_");
 // 	return newStr
